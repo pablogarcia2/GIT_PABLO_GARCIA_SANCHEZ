@@ -7,6 +7,7 @@ public class PGSM {
 		System.out.println("Primera Modificacion desde Master - Cambiado");
 		System.out.println("Modificacion desde Dev");
 		System.out.println("Modificación desde GitHub");
+		System.out.println("Modificación2 desde GitHub");
 	}
 
 }
