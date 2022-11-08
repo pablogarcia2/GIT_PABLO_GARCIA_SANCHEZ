@@ -6,6 +6,7 @@ public class PGSM {
 		System.out.println("Alumno; Pablo_Garcia");
 		System.out.println("Primera Modificacion desde Master - Cambiado");
 		System.out.println("Modificacion desde Dev");
+		System.out.println("Modificacion desde GitHub");
 	}
 
 }
